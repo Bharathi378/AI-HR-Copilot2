@@ -1,0 +1,14 @@
+Job Description: AI/ML Intern
+Company: NovaTech Solutions | Location: Bengaluru (Hybrid) | Duration: 6 months
+About the Role
+We are looking for an AI/ML Intern to join our data science team. The intern will work on building,
+training, and deploying machine learning models, and collaborate with engineers to bring models into
+production.
+Required Skills
+Python, Machine Learning, PyTorch, Deep Learning, SQL, Data Structures, Git
+Preferred Skills
+Docker, Linux, AWS, NLP, Computer Vision, REST APIs
+Responsibilities- Build and train ML models using PyTorch- Clean and preprocess large datasets- Write production-quality Python code- Collaborate with engineers on model deployment- Document experiments and results
+Qualifications
+Pursuing or completed a degree in Computer Science, AI, or related field. Strong problem-solving skills
+and a passion for AI
